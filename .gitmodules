@@ -97,3 +97,9 @@
 [submodule "mycroft-speak"]
 	path = skill-speak
 	url = https://github.com/mycroftai/skill-speak.git
+[submodule "gigundo-pairing"]
+	path = skill-pairing
+	url = https://github.com/GigundoAI/skill-pairing
+[submodule "gigundo-configuration"]
+	path = skill-configuration
+	url = https://github.com/GigundoAI/skill-configuration
